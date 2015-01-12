@@ -158,3 +158,7 @@ public class FullscreenActivity extends Activity {
         mHideHandler.postDelayed(mHideRunnable, delayMillis);
     }
 }
+
+/**
+ * Hey Logan!
+ */
